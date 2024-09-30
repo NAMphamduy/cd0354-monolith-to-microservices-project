@@ -1,0 +1,5 @@
+NAME                            READY   STATUS    RESTARTS   AGE
+backend-feed-546d76988b-vqb2l   1/1     Running   0          25h
+backend-user-cd48c6575-bs8vr    1/1     Running   0          25h
+frontend-7ddb7c586-8kxl5        1/1     Running   0          26h
+reverseproxy-868447859b-wm7s4   1/1     Running   0          26h
